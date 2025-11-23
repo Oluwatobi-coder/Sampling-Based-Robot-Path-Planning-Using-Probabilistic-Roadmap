@@ -1,0 +1,5 @@
+num_samples=50
+k_neighbors=5
+robot_radius=0.0
+bounds_min=-0.5
+bounds_max=0.5
