@@ -6,7 +6,7 @@ This repository contains my implementation of the **Probabilistic Roadmap Method
 
 ## 💡 Project Description 
 
-This PRM approach involves the uniform random sampling of nodes in the C-space, connecting nearby nodes to form a graph while avoiding obstacles, and using A* search on this graph to find a collision-free path for a point robot navigating a cluttered 2D planar environment. The configuration space is a square  [-0.5, 0.5] x [-0.5, 0.5], with fixed start and goal nodes at \((-0.5, -0.5)\) and \((0.5, 0.5)\) respectively.
+This PRM approach involves the uniform random sampling of nodes in the C-space, connecting nearby nodes to form a graph while avoiding obstacles, and using A* search on this graph to find a collision-free path for a point robot navigating a cluttered 2D planar environment. The configuration space is a square  [-0.5, 0.5] x [-0.5, 0.5], with fixed start and goal nodes at (-0.5, -0.5) and (0.5, 0.5) respectively.
 
 
 ---
