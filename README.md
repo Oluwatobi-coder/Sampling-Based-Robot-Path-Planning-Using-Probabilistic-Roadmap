@@ -82,7 +82,7 @@ This PRM approach involves the uniform random sampling of nodes in the C-space, 
 
 | File Name | Format | Description |
 | :--- | :--- | :--- |
-| `obstacles.csv` | `X_center, Y_center, Radius` | Defines the location and size of all circular obstacles. |
+| `obstacles.csv` | `x, y, diameter` | Defines the location and size of all circular obstacles. |
 | `parameters.txt` | `num_samples, k_neighbors, robot_radius, bounds_min, bounds_max` | Defines some input parameters into the program. |
 
 
