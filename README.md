@@ -16,7 +16,7 @@ This PRM approach involves the uniform random sampling of nodes in the C-space, 
 
 - **Language:** Python
 - **Libraries:** csv, heapq, math, random (all standard Python libraries, no external installation required). 
-- **Simulation Tool:** CoppeliaSim (Edu Version)
+- **Simulation Tool:** CoppeliaSim
 
 ---
 
